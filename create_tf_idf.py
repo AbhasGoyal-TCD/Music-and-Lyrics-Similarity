@@ -16,8 +16,6 @@ ROOT_OP = "Tf-Idf"
 DOCUMENTS_LYRICS = {}
 DOCUMENTS_ABC = {}
 
-WHITELIST = set("abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ")
-
 
 def tokenize(s, lemmatization=True):
     tokens = nltk.word_tokenize(s)
@@ -49,14 +47,18 @@ def populate_documents(root, files, dir_name):
         if dir_name == "Lyrics":
             lines = lines.translate(str.maketrans("", "", string.punctuation))
             lines = lines.translate(str.maketrans("", "", string.digits))
+
+            # Removes Non-ASCII letters from the string
             encoded_lines = lines.encode("ascii", "ignore")
             lines = encoded_lines.decode()
             DOCUMENTS_LYRICS[file] = lines
+
         elif dir_name == "ABC":
             DOCUMENTS_ABC[file] = lines
 
 
 def get_cosine_sim_mat(documents, stopwords):
+    # Generates TF-IDF values and then a cosine similarity matrix
     tfidf, tfidf_vector = gen_tf_idf(documents.values(), stopwords)
     df = pd.DataFrame(
         tfidf_vector.toarray(),
@@ -73,6 +75,7 @@ def get_cosine_sim_mat(documents, stopwords):
 
 
 def sanity_check(df_lyrics, cosine_sim_lyrics_df, song1, song2):
+    # A check function that verifies all the values are in sync
     val1 = round(
         cosine_similarity(
             df_lyrics.loc[song1].to_numpy().reshape(1, -1),
