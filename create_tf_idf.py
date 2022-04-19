@@ -1,4 +1,4 @@
-from tracemalloc import stop
+from sqlite3 import DatabaseError
 import numpy as np
 import nltk
 import string
@@ -6,15 +6,33 @@ import os
 from sklearn.feature_extraction.text import TfidfVectorizer
 from pprint import pprint
 import pandas as pd
-from nltk.stem.porter import PorterStemmer
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.stem import WordNetLemmatizer
+import itertools
 
 ROOT = "./Database"
-ROOT_OP = "Tf-Idf"
 
 DOCUMENTS_LYRICS = {}
 DOCUMENTS_ABC = {}
+DATASET = {}
+
+LYRICS = "Lyrics/"
+ABC = "ABC/"
+
+AGGREGATE_ARTIST = {}
+
+
+def populate_dataset_dict():
+    for directory in os.listdir(ROOT):
+        if os.path.isdir(ROOT + "/" + directory):
+            DATASET[directory] = {}
+            nested_path = ROOT + "/" + directory + "/Lyrics/"
+            for nested_dir in os.listdir(ROOT + "/" + directory + "/Lyrics/"):
+                if os.path.isdir(nested_path + nested_dir):
+                    DATASET[directory][nested_dir] = [
+                        x.replace(".txt", "")
+                        for x in os.listdir(nested_path + nested_dir)
+                    ]
 
 
 def tokenize(s, lemmatization=True):
@@ -44,7 +62,7 @@ def populate_documents(root, files, dir_name):
     for file in files:
         lines = read_file(root + "/" + file)
         file = file.replace(".txt", "").replace(".abc", "")
-        if dir_name == "Lyrics":
+        if dir_name == LYRICS:
             lines = lines.translate(str.maketrans("", "", string.punctuation))
             lines = lines.translate(str.maketrans("", "", string.digits))
 
@@ -53,7 +71,7 @@ def populate_documents(root, files, dir_name):
             lines = encoded_lines.decode()
             DOCUMENTS_LYRICS[file] = lines
 
-        elif dir_name == "ABC":
+        elif dir_name == ABC:
             DOCUMENTS_ABC[file] = lines
 
 
@@ -74,37 +92,64 @@ def get_cosine_sim_mat(documents, stopwords):
     return df, cosine_sim, cosine_sim_df
 
 
-def sanity_check(df_lyrics, cosine_sim_lyrics_df, song1, song2):
+def sanity_check(df, cosine_sim_df, song1, song2):
     # A check function that verifies all the values are in sync
     val1 = round(
         cosine_similarity(
-            df_lyrics.loc[song1].to_numpy().reshape(1, -1),
-            df_lyrics.loc[song2].to_numpy().reshape(1, -1),
+            df.loc[song1].to_numpy().reshape(1, -1),
+            df.loc[song2].to_numpy().reshape(1, -1),
         )[0][0],
         4,
     )
 
-    val2 = round(cosine_sim_lyrics_df.loc[song1, song2], 4)
-    print(val1, val2)
+    val2 = round(cosine_sim_df.loc[song1, song2], 4)
     assert val1 == val2
 
 
+def generate_pairs_of_artist():
+    li = []
+    for genre in DATASET:
+        li.extend(DATASET[genre].keys())
+    combinations = itertools.combinations(li, 2)
+    return [x for x in combinations]
+
+
 def main():
+    populate_dataset_dict()
+
     for root, dirs, files in os.walk(ROOT):
-        if "Lyrics/" in root:
-            populate_documents(root, files, "Lyrics")
-        elif "ABC/" in root:
-            populate_documents(root, files, "ABC")
+        if LYRICS in root:
+            populate_documents(root, files, LYRICS)
+        elif ABC in root:
+            populate_documents(root, files, ABC)
 
     df_lyrics, cosine_sim_lyrics, cosine_sim_lyrics_df = get_cosine_sim_mat(
         DOCUMENTS_LYRICS, stopwords="english"
     )
-    df_abc, cosine_sim_abc, cosine_sim_abc_df = get_cosine_sim_mat(
-        DOCUMENTS_ABC, stopwords=None
-    )
+    # df_abc, cosine_sim_abc, cosine_sim_abc_df = get_cosine_sim_mat(
+    #     DOCUMENTS_ABC, stopwords=None
+    # )
 
     sanity_check(df_lyrics, cosine_sim_lyrics_df, "BookOfDays", "Blueberry Hill")
-    sanity_check(df_abc, cosine_sim_abc_df, "BookOfDays", "What A Wonderful World")
+    # sanity_check(df_abc, cosine_sim_abc_df, "BookOfDays", "What A Wonderful World")
+
+    for genre in DATASET:
+        for artist in DATASET[genre]:
+            AGGREGATE_ARTIST[artist] = {}
+            temp_lyrics_df = cosine_sim_lyrics_df.loc[DATASET[genre][artist]][
+                DATASET[genre][artist]
+            ]
+            temp_lyrics_df_mat = temp_lyrics_df.to_numpy()
+            AGGREGATE_ARTIST[artist]["Lyrics"] = np.linalg.det(temp_lyrics_df_mat)
+
+            # Uncomment when ABC files are present
+            # temp_abc_df = cosine_sim_abc_df.loc[DATASET[genre][artist]][
+            #     DATASET[genre][artist]
+            # ]
+            # temp_abc_df_mat = temp_abc_df.to_numpy()
+            # AGGREGATE_ARTIST[artist]["ABC"] = np.linalg.det(temp_abc_df_mat)
+
+    pairs_artists = generate_pairs_of_artist()
 
 
 if __name__ == "__main__":
