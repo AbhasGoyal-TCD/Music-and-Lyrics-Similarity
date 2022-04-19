@@ -1,3 +1,4 @@
+from sqlite3 import DatabaseError
 import numpy as np
 import nltk
 import string
@@ -7,6 +8,7 @@ from pprint import pprint
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.stem import WordNetLemmatizer
+import itertools
 
 ROOT = "./Database"
 
@@ -16,6 +18,8 @@ DATASET = {}
 
 LYRICS = "Lyrics/"
 ABC = "ABC/"
+
+AGGREGATE_ARTIST = {}
 
 
 def populate_dataset_dict():
@@ -102,6 +106,14 @@ def sanity_check(df, cosine_sim_df, song1, song2):
     assert val1 == val2
 
 
+def generate_pairs_of_artist():
+    li = []
+    for genre in DATASET:
+        li.extend(DATASET[genre].keys())
+    combinations = itertools.combinations(li, 2)
+    return [x for x in combinations]
+
+
 def main():
     populate_dataset_dict()
 
@@ -114,12 +126,30 @@ def main():
     df_lyrics, cosine_sim_lyrics, cosine_sim_lyrics_df = get_cosine_sim_mat(
         DOCUMENTS_LYRICS, stopwords="english"
     )
-    df_abc, cosine_sim_abc, cosine_sim_abc_df = get_cosine_sim_mat(
-        DOCUMENTS_ABC, stopwords=None
-    )
+    # df_abc, cosine_sim_abc, cosine_sim_abc_df = get_cosine_sim_mat(
+    #     DOCUMENTS_ABC, stopwords=None
+    # )
 
     sanity_check(df_lyrics, cosine_sim_lyrics_df, "BookOfDays", "Blueberry Hill")
-    sanity_check(df_abc, cosine_sim_abc_df, "BookOfDays", "What A Wonderful World")
+    # sanity_check(df_abc, cosine_sim_abc_df, "BookOfDays", "What A Wonderful World")
+
+    for genre in DATASET:
+        for artist in DATASET[genre]:
+            AGGREGATE_ARTIST[artist] = {}
+            temp_lyrics_df = cosine_sim_lyrics_df.loc[DATASET[genre][artist]][
+                DATASET[genre][artist]
+            ]
+            temp_lyrics_df_mat = temp_lyrics_df.to_numpy()
+            AGGREGATE_ARTIST[artist]["Lyrics"] = np.linalg.det(temp_lyrics_df_mat)
+
+            # Uncomment when ABC files are present
+            # temp_abc_df = cosine_sim_abc_df.loc[DATASET[genre][artist]][
+            #     DATASET[genre][artist]
+            # ]
+            # temp_abc_df_mat = temp_abc_df.to_numpy()
+            # AGGREGATE_ARTIST[artist]["ABC"] = np.linalg.det(temp_abc_df_mat)
+
+    pairs_artists = generate_pairs_of_artist()
 
 
 if __name__ == "__main__":
