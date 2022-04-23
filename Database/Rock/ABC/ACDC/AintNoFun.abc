@@ -1,0 +1,222 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Rock\MIDI\ACDC\AintNoFun.mid
+M: 4/4
+L: 1/8
+Q:1/4=120
+% Last note suggests Dorian mode tune
+K:C % 0 sharps
+V:1
+%%MIDI program 30
+%%MIDI program 30
+[DA,D,]3F, ^F,[D-A,-D,-]3| \
+[DA,D,]8| \
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,|
+[DA,D,]3F, ^F,[D-A,-D,-]3| \
+[DA,D,]8| \
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[GDG,D,G,,]8| \
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[GDG,D,G,,]8|
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[GDG,D,G,,]4 [GDG,D,G,,]4| \
+G,,D, G,A,,2G, B,,G,|
+C,G, G,B,,2G, G,,G,| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[GDG,D,G,,]4 [GDG,D,G,,]4| \
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[GDG,D,G,,]4 [GDG,D,G,,]4| \
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]|
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[A,D,]2 [A,D,][B,D,] z[A,D,] z[B,D,]| \
+[GDG,D,G,,]4 [GDG,D,G,,]4|
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,| \
+G,,D, G,A,,2G, B,,G,| \
+C,G, G,B,,2G, G,,G,|
+[D-A,-D,-]8| \
+[DA,D,]8| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]| \
+[A,D,]2 [A,D,][B,D,]2[A,D,]2[B,D,]|

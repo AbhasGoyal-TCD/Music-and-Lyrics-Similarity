@@ -1,0 +1,127 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Country\MIDI\Dolly Patron\Loving.mid
+M: 4/4
+L: 1/8
+Q:1/4=183
+K:Eb % 3 flats
+V:1
+%%MIDI program 67
+z8| \
+z8| \
+z8| \
+B,,z3 B,,z3|
+B,,z B,,/2z/2B,,3/2z/2B,,/2z/2 B,,z| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,,z B,,/2z/2B,,3/2z/2B,,/2z/2 B,,z| \
+z8| \
+z8| \
+A,,z4A,,2-A,,/2z/2|
+E,,z6z| \
+z8| \
+z8| \
+B,,z4B,,2-B,,/2z/2|
+E,,
+V:2
+%%MIDI program 61
+z8| \
+z8| \
+z8| \
+[BFD]z3 [BFD]z3|
+[BFD]z [BFD]/2z/2[BFD]3/2z/2[BFD]/2z/2 [BFD]z| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+[BFD]z [BFD]/2z/2[BFD]3/2z/2[BFD]/2z/2 [BFD]z| \
+z8| \
+z8| \
+[ecA]z4[f-c-A-]2[fcA]/2z/2|
+[eBG]z6z| \
+z8| \
+z8| \
+[dBF]z4[d-B-F-]2[dBF]/2z/2|
+[eBG]
+V:3
+%%MIDI program 25
+z8| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BFD]3/2z2z/2 [BFD]3/2z2z/2|
+[BFD]z [BFD]/2z/2[B-FD-] [BD]/2z/2[BFD]/2z/2 [B-FD]/2B/2z| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BFD]2 [BFD]3/2[BFD]/2 [BFD]3/2[BFD]/2 [BFD]3/2[BFD]/2|
+[BFD]2 [BFD]3/2[BFD]/2 [BFD]3/2[BFD]/2 [BFD]3/2[BFD]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[AEC]2 [AEC]3/2[AEC]/2 [AEC]3/2[AEC]/2 [AEC]3/2[AEC]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2|
+[BFD]z [BFD]/2z/2[B-FD] B/2z/2[BFD]/2z/2 [B-FD]/2B/2z| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[AEC]2 [AEC]3/2[AEC]/2 [AEC]3/2[AEC]/2 [AEC]3/2[AEC]/2|
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BFD]2 [BFD]3/2[BFD]/2 [BFD]3/2[BFD]/2 [BFD]3/2[BFD]/2|
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2| \
+[BGE]2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2 [BGE]3/2[BGE]/2|
+V:4
+%%MIDI program 33
+z8| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 C,3/2z/2| \
+E,3/2z/2 C,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+B,,3/2z2z/2 B,,3/2z2z/2|
+B,,3/2z/2 B,,B,,3/2z/2B,, B,,3/2z/2| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 C,3/2z/2| \
+E,3/2z/2 C,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+B,,3/2z/2 C,3/2z/2 D,3/2z/2 C,3/2z/2|
+B,,3/2z/2 A,,3/2z/2 G,,3/2z/2 F,,3/2z/2| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+A,,3/2z/2 C,3/2z/2 E,3/2z/2 C,3/2z/2| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 G,,3/2z/2|
+B,,3/2z/2 B,,B,,3/2z/2B,, B,,3/2z/2| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 C,3/2z/2| \
+E,3/2z/2 C,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+A,,3/2z/2 C,3/2z/2 E,3/2z/2 C,3/2z/2|
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 C,3/2z/2| \
+E,3/2z/2 C,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+B,,3/2z/2 A,,3/2z/2 G,,3/2z/2 F,,3/2z/2|
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 G,,3/2z/2| \
+E,,3/2z/2 G,,3/2z/2 B,,3/2z/2 C,3/2z/2| \
+E,3/2z/2 C,3/2z/2 B,,3/2z/2 G,,3/2
+V:5
+%%MIDI channel 10
+z8| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z2 z2 z2|
+z2 zz2z z2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2|
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2|
+z2 zz2z z2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2|
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2|
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2z/2| \
+z2 z3/2z/2 z2 z3/2

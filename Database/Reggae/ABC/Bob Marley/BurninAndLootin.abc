@@ -1,0 +1,370 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Reggae\MIDI\Bob Marley\BurninAndLootin.mid
+M: 4/4
+L: 1/8
+Q:1/4=120
+% Last note suggests Locrian mode tune
+K:C % 0 sharps
+V:1
+%%MIDI program 33
+%%MIDI program 33
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,,4 E,,,2 G,,,2|
+A,,,2 C,,B,,, A,,,2 E,,,2-| \
+E,,, (3D,,2D,,2D,,2C,, D,,2| \
+E,,8-| \
+E,,2 E,,F,, E,,D,, C,,B,,,|
+V:2
+%%MIDI program 25
+%%MIDI program 25
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 [EB,^G,]z3 [EB,G,]
+V:3
+%%MIDI program 30
+%%MIDI program 30
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [ECA,]z3 [ECA,]z| \
+z2 [ECA,]z3 [ECA,]z|
+z2 [ECA,]z3 [ECA,]z| \
+z2 [FDA,]z3 [FDA,]z| \
+z2 [EB,^G,]z3 [EB,G,]z| \
+z2 EF ED CB,|
+V:4
+%%MIDI channel 10
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2|
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 E,,2 C,,2 E,,2| \
+[G,C,,]2 [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,] [G,E,,C,,][G,C,,]|

@@ -15,8 +15,8 @@ for file in midi_files:
     if not os.path.exists(split_values[0] +  '\\ABC\\' +  split_values[2]):
         os.makedirs(split_values[0] +  '\\ABC\\' +  split_values[2])
     
-    #command = 'midi2abc "' + working_dir  + file + '"' ' -o "' + working_dir + split_values[0] +  '\\ABC\\' +  split_values[2] + '\\' + split_values[3].replace('mid','abc') + '"'
-    #print(command)
+    command = 'midi2abc "' + working_dir  + file + '"' ' -o "' + working_dir + split_values[0] +  '\\ABC\\' +  split_values[2] + '\\' + split_values[3].replace('mid','abc') + '"'
+    print(command)
     
     #os.system("cmd /c 'D:\\TCD\\Text Analytics\\Group Assignment\\Music-and-Lyrics-Similarity\\midiabc\\midi2abc") # + '" -o "' + working_dir + '\\' + split_values[0] +  '\\ABC\\' +  split_values[2] + '\\' + split_values[3].replace('mid','abc'))
 

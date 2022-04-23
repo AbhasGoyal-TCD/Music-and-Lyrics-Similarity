@@ -1,0 +1,80 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Blues\MIDI\chucky berry\LittleQueenie.mid
+M: 4/4
+L: 1/8
+Q:1/4=152
+% Last note suggests Phrygian mode tune
+K:F % 1 flats
+V:1
+%%clef bass
+%%MIDI program 26
+%%MIDI program 26
+z6 [EC]2| \
+[cG_E][cG] [cG][cG] [cG][AF] [GE]/2=E/2C| \
+[cG][cG] [cG][cG] [cG][AF] [G_E]/2=E/2C| \
+[cG][AF] [G_E]/2=E/2C [cG][EC] [EC][cG]|
+[EC][EC] [cG][EC] [cG][_eA]3| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[CF,][CF,] [DF,][CF,] [CF,][CF,] [DF,][CF,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[D,G,,][D,G,,] [E,G,,][D,G,,] [D,G,,][D,G,,] [E,G,,][D,G,,]| \
+[D,G,,][D,G,,] [E,G,,][D,G,,] [D,G,,][D,G,,] [E,G,,][D,G,,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]|
+[G,C,][CG,C,] [DA,C,][G,C,] [CG,C,][G,C,] [DA,C,][G,C,]| \
+F,[CF,] [DF,]F, [CF,][CF,] [DF,]F,| \
+[_EF,]F, [DF,]F, [CF,][CF,] [CG,]2| \
+[G,C,][G,C,] [A,C,][G,C,] [G,C,][G,C,] [A,C,][G,C,]|
+[B,C,][G,C,] [A,C,][G,C,] [G,C,][G,C,] [A,C,][G,C,]| \
+[D,G,,][D,G,,] [E,G,,][D,G,,] [F,G,,][D,G,,] [E,G,,][D,G,,]| \
+[D,G,,][D,G,,] [E,G,,][D,G,,] [D,G,,][D,G,,] [E,G,,][D,G,,]| \
+[G,C,][G,C,] [A,C,][G,C,] [B,C,][G,C,] [A,C,][G,C,]|
+[G,C,][G,C,] [A,C,][G,C,] [G,C,][G,C,] [A,C,][B,-G,-C,-]| \
+[B,G,C,]2 [A,C,]2 [G,C,][G,C,] [A,C,][B,-G,-C,-]| \
+[B,G,C,]2 [A,C,]2 [G,C,][G,C,] [A,C,][B,-G,-C,-]| \
+[B,G,C,]2 [A,C,]2 [G,C,][G,C,] [A,C,][B,-G,-C,-]|
+[B,G,C,]2 [A,C,]2 [G,C,][G,C,] [A,C,][_E-C-F,-]| \
+[_ECF,]2 [DF,]2 [CF,][CF,] [DF,][E-C-F,-]| \
+[_ECF,]2 [DF,]2 [CF,][CF,] [DF,][B,-G,-C,-]| \
+[B,G,C,]2 [A,C,]2 [G,C,][G,C,] [A,C,][B,-G,-C,-]|
+[B,G,C,]2 [A,C,]2 [G,C,][G,C,] [A,C,][D,G,,]| \
+[D,G,,]2 [E,G,,][D,G,,] [F,D,G,,]2 [F,-D,-G,,-]2| \
+[F,D,G,,]2 [E,G,,][D,G,,] [D,G,,][D,G,,] [E,G,,]2| \
+[G,C,][G,C,] [A,C,][G,C,] [G,C,][G,C,] [A,C,][B,-G,-C,-]|
+[B,G,C,]2 [A,C,][G,C,] [G,C,][G,C,] [A,C,]2| \
+[G,C,][G,C,] [A,C,][G,C,] [G,C,][G,C,] [A,C,][B,-G,-C,-]| \
+[B,G,C,]2 [A,C,][G,C,] [G,C,]2 z[G_E]/2=E/2| \
+C[cG]2E [cG]2 [AF][G_E]/2=E/2|
+C[cG]2E [cG]2 [AF][G_E]/2=E/2| \
+C[cG]2E [cG]2 [AF][G_E]/2=E/2| \
+C[cG]2E [cG]2 [AF][G_E]/2=E/2| \
+C[cG_E]3 [cG]2 [EA,]2|
+z[cG_E]2[EA,] [cGE]2 z2| \
+C[cG]2E [cG]2 [AF][G_E]/2=E/2| \
+C[cG]2E [cG]2 [AF][G_E]/2=E/2| \
+C[cG]2E [cG]2 [AF][G_E]/2=E/2|
+C[cG]2E [cG]2 [AF][G_E]/2=E/2| \
+C[cG]2E [cG]2 z2| \
+z[_eA] z2 [eA]z2[eA]| \
+z2 [_eA]z2[eA] z2|
+[_eA]z2[eA] z2 [eA]

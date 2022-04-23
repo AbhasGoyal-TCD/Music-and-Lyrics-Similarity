@@ -1,0 +1,125 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Folk\MIDI\Simon and Garfunkel\59thStreetBridge.mid
+M: 4/4
+L: 1/8
+Q:1/4=150
+K:Bb % 2 flats
+V:1
+%%MIDI program 30
+z8| \
+z8| \
+z8| \
+z8|
+z2 GF4D| \
+E2 FD4-D| \
+zB, GE F2 DF-| \
+FF2B3 F2|
+z2 GE2<F2D| \
+EF2D4-D| \
+z2  (3GGE F2 DF-| \
+FF2d2B3-|
+B8-| \
+B8| \
+z2 GG2<F2D| \
+zE2F DF3|
+zB, GE F2 DF-| \
+FF2B3 F2| \
+z2 GE FF2D| \
+E3F D4|
+z2 GE F2<B2| \
+BB2d2B3-| \
+B8-| \
+B6 F2|
+GG2E F2 D2| \
+EE EC D2 zB,| \
+ (3d2c2B2  (3d2c2B2| \
+ (3B2F2E2  (3D2E2F2|
+ (3G2E2G2  (3B2F2B2| \
+ (3d2c2B2 F4| \
+zG2E F2 D2| \
+zF2F d4|
+B8-|B8|
+V:2
+%%MIDI program 51
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]| \
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]|
+B,2- [GEB,-][FDB,-]4[DB,]| \
+[ECB,-]2 [FB,-][D-B,-]4[DB,]| \
+zB, [GE][EC] [FD]2 [DB,][F-C-B,-]| \
+[FCB,-][FCB,-]2[BDB,-]3 [FDB,]2|
+B,2- [GEB,-][ECB,-] [FDB,-]3[DB,-]| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]| \
+B,2- [GEB,-]/2[GEB,-]/2B,/2-[ECB,-]/2 [FDB,-]2 [DB,-][F-C-B,-]| \
+[FCB,-][FCB,]2[dBD]2[B-FD]3|
+B2- [B-GE]2 B2- [B-FD]2| \
+B2- [B-EC]2 B2- [BFD]2| \
+B,2- [GEB,-][GEB,-] [FDB,-]3[DB,-]| \
+B,-[ECB,-]2[CB,-] [DB,-][FB,]3|
+zB, [GE][EC] [FD]2 [DB,][F-C-B,-]| \
+[FCB,-][FCB,-]2[BDB,-]3 [FDB,]2| \
+B,2- [GEB,-][ECB,-] [FDB,-][FDB,-]2[E-C-B,-]| \
+[ECB,-]3[FB,-] [DB,]4|
+B,2- [GEB,-][ECB,-] [FDB,-][BFDB,]3| \
+[BEC][BEC]2[dBD]2[BFD]3| \
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[DB,-]3 [FDB,]2|
+[GEB,-][GEB,-]2[ECB,-] [FDB,-]2 [DB,-]2| \
+[ECB,-][ECB,-] [ECB,-][CB,-] [DB,-]2 B,B,| \
+[dBE-]3/2[c-A-E-][cB-AG-E-]/2[BGE] [dBD-]3/2[c-A-D-][cB-AG-D-]/2[BGD]| \
+[BEC]3/2F-[FE-]/2E D3/2[E-C-][F-ED-C]/2[FD]|
+[GEB,-]3/2[E-C-B,-][G-E-ECB,-]/2[GEB,-] [BFB,-]3/2[F-D-B,-][B-F-FDB,-]/2[BFB,]| \
+[dG-E-]3/2[c-G-E-][cB-G-E-]/2[BGE] [FD]4| \
+B,-[GEB,-]2[ECB,-] [FDB,-]2 [DB,-]2| \
+B,-[FEB,-]2[FEB,] [dBD]4|
+B2- [B-GE]2 B2- [B-FD]2| \
+B2- [B-EC]2 B2- [BFD]2| \
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]|
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]| \
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]|
+B,2- [GEB,-]2 [FDB,-]2 [DB,-]2| \
+[ECB,-][FB,-]2[D-B,-]4[DB,]|
+V:3
+%%MIDI program 33
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2| \
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,]4 [F,D,-]2 [F,D,]2| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2| \
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,]4 [F,D,-]2 [F,D,]2| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2| \
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,-]2 [B,E,]2 [G,D,-]2 [B,D,]2| \
+[F,C,-]2 [B,C,]2 [F,B,,-]2 [B,B,,]2| \
+[G,E,]4 [F,D,-]2 [F,D,]2| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2| \
+[G,E,]4 [F,D,-]2 [F,D,]2| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,]4 [F,D,-]2 [F,D,]2| \
+C,2- [B,-C,]2 [B,B,,-]2 [B,B,,]2| \
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2| \
+[B,E,]4 [B,D,]4| \
+C,2- [B,-C,]2 [B,B,,-]2 [B,B,,]2|
+[G,E,]4 [F,D,]4| \
+C,2- [B,-C,]2 [B,B,,-]2 [B,B,,]2| \
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,-]2 [B,E,]2 [G,D,-]2 [B,D,]2| \
+[F,C,-]2 [B,C,]2 [F,B,,-]2 [B,B,,]2| \
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|
+[G,E,]4 [F,D,]4| \
+C,2- [F,-C,]2 [F,B,,-]2 [F,B,,]2|

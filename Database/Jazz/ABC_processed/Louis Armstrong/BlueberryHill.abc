@@ -1,0 +1,14 @@
+[BGE]/2 [BGE]/2 [BGE]/2 [BGE]/2 
+[BFD]/2 [BFD]/2 [BFD]/2 [BGE]/2 [BGE]/2 [BGE]/2 [BGE]/2 
+[BFD]/2 [BFD]/2 [BFD]/2 [BFD]/2 [AFC]/2 [AFC]/2
+E,3/2 E,>G, B,/2 (B,_G,=G,B,/2B,_G,=G,B,/2B,_G,=G,B,/2  E,3/2 E,>G, B,/2 (B,_G,=G,B,/2B,_G,=G,B,/2B,_G,=G,B,/2  
+B,3/2 B,>D F/2 (F_D=DF/2F_D=DF/2F_D=DF/2  B,3/2 E,3/2 E,>G, B,/2 (B,_G,=G,B,/2B,_G,=G,B,/2B,_G,=G,B,/2  E,3/2 E,>G, B,/2 (B,_G,=G,B,/2B,_G,=G,B,/2B,_G,=G,B,/2  
+B,2 B,>D F/2 (F_D=DF/2F_D=DF/2F_D=DF/2  B,3/2 B,>D F>F _D<=D F,3/2 F,>A, C>C (_A,=A,C_A,=A,C_A,=A,C  
+B,>B, (DB,DDB,DDB,D  (FDFFDFFDF  (G/2E/2G/2[GE]/2[GE]/2G/2E/2G/2[GE]/2[GE]/2G/2E/2G/2[GE]/2[GE]/2  [GE]/2[GE]/2[GE]/2[GE]/2 [GE]/2[GE]/2[GE]/2[GE]/2 [GE]/2[GE]/2[GE]/2[GE]/2 [GE]/2[GE]/2[GE]/2E<B (GFGF<_D=D/2GFGF<_D=D/2GFGF<_D=D/2  
+(F/2D/2F/2[FD]/2[FD]/2F/2D/2F/2[FD]/2[FD]/2F/2D/2F/2[FD]/2[FD]/2  [FD]/2[FD]/2[FD]/2[FD]/2 [FD]/2[FD]/2[FD]/2[FD]/2 [FD]/2[FD]/2[FD]/2[FD]/2 [F-D-DB,-]/2[FDB,]4 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 [bge]/2[bge]/2[bge]/2 
+[bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [bfd]/2[bfd]/2[bfd]/2 [afc]/2[afc]/2[afc]/2 [afc]/2[afc]/2[afc]/2 [afc]/2[afc]/2[afc]/2 [afc]/2[afc]/2[afc]/2 
+[G-E-B,-]8 [G-E-B,-]6 [GEB,] 
+[F-D-B,-]8 [F-D-B,-]6 [FDB,] [F-C-A,-]8 [F-C-A,-]6 [FCA,]
+E,,3G,,/2 B,,2 G,,>B,, E,,3G,,/2 B,,2 G,,>B,, 
+B,,,3D,,/2 F,,2 D,,>F,, B,,,6- B,,, E,,3G,,/2 B,,2 G,,>B,, E,,3G,,/2 B,,2 G,,>B,, 
+B,,,3D,,/2 F,,2 D,,>F,, B,,,3D,,/2 F,,2 D,,>F,, F,,,3A,,,/2 C,,2 A,,,>C,, 

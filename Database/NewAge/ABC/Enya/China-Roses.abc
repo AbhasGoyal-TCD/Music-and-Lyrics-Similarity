@@ -1,0 +1,435 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\NewAge\MIDI\Enya\China-Roses.mid
+M: 6/8
+L: 1/8
+Q:1/4=60
+K:Db % 5 flats
+V:1
+z6| \
+%%MIDI program 49
+[F-C-=A,-F,-]6| \
+[FC=A,F,]3 [=EC=G,C,]3| \
+[FC=A,F,]3 [=EC=G,C,]3|
+[FC=A,F,]6| \
+[FC=A,F,]3 [=EC=G,C,]3| \
+[F=D=A,D,]3 [FDF,B,,]2[=EC=G,C,]| \
+[FC=A,F,]3 [=EC=G,C,]3|
+[F-=D-F,-B,,-]4[FDF,B,,][=EC=G,C,]| \
+[FC=A,F,]3 [=EC=G,C,]3| \
+[F=D=A,D,]3 [FDF,B,,]2[=EC=G,C,]| \
+[FC=A,F,]3 [=EC=G,C,]3|
+[FC=A,F,]6| \
+[FC=A,F,]3 [=EC=G,C,]3| \
+[F=D=A,D,]3 [FDF,B,,]2[=EC=G,C,]| \
+[FC=A,F,]3 [=EC=G,C,]3|
+[F-=D-F,-B,,-]4[FDF,B,,][=EC=G,C,]| \
+[FC=A,F,]3 [=EC=G,C,]3| \
+[F=D=A,D,]3 [FDF,B,,]2[=EC=G,C,]| \
+[FC=A,F,]3 [=EC=G,C,]3|
+[FC=A,F,]6| \
+[=D=A,F,D,]3 [CA,=E,A,,]3| \
+[=EC=G,C,]3 [FC=A,F,]3| \
+[=D=A,F,D,]3 [DB,F,B,,]3|
+[=EC=G,E,C,]3 [=D=A,F,D,]3| \
+[C=A,=E,A,,]3 [EC=G,C,]3| \
+[FC=A,F,]3 [=DA,F,D,]3| \
+[=DB,F,B,,]3 [=E-C-=G,-E,-C,-]3|
+[=EC=G,E,C,]3 [FC=A,F,]3| \
+[=EC=G,C,]3 [F=D=A,D,]3| \
+[F=DF,B,,]2[=EC=G,C,] [FC=A,F,]3| \
+[=EC=G,C,]3 [F-=D-F,-B,,-]3|
+[F=DF,B,,]2[=EC=G,C,] [FC=A,F,]3| \
+[=EC=G,C,]3 [F=D=A,D,]3| \
+[F=DF,B,,]2[=EC=G,C,] [FC=A,F,]3| \
+[=EC=G,C,]3 [FC=A,F,]3|
+[FDA,F,D,]3 [FC=A,F,]3| \
+[FDA,F,D,]3 [GDB,G,G,,]3| \
+[DA,F,D,]3 [EB,G,E,]3| \
+[=E=B,A,E,]3 [_EB,G,B,,]3|
+[E=B,G,B,,]3 [D_B,G,B,,]3| \
+[E=B,G,B,,]3 [D_B,G,B,,]3| \
+[E=B,G,B,,]3 [FDA,D,]3| \
+[GDB,G,G,,]3 [DA,F,D,]3|
+[EB,G,E,]3 [=E=B,A,E,]3| \
+[E=B,G,B,,]3 [EB,G,B,,]3| \
+[DB,G,B,,]3 [EB,G,E,,]3| \
+[ECA,E,A,,]3 [FDA,D,]3|
+[GDB,G,G,,]6| \
+[GDB,G,]3 [FDA,D,]3| \
+[GEB,E,]3 [GEG,=B,,]2[FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3|
+[G-E-G,-=B,,-]4[GEG,B,,][FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3| \
+[GEB,E,]3 [GEG,=B,,]2[FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3|
+[EB,G,E,]3 [E=B,G,E,]2[FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3| \
+[GEB,E,]3 [GEG,=B,,]2[FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3|
+[G-E-G,-=B,,-]4[GEG,B,,][FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3| \
+[GEB,E,]3 [GEG,=B,,]2[FDA,D,]| \
+[GDB,G,]3 [FDA,D,]3|
+V:2
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+%%MIDI program 4
+F2F F=G3/2=E/2| \
+F2C =D2C| \
+zCF =E/2F/2=GC|
+C=D4-D| \
+zFF F=G3/2=E/2| \
+F2C =D2C| \
+zCF =E/2F<=GE/2|
+F4-Fz| \
+F2F F=G3/2=E/2| \
+F2C =D2C| \
+zCF =E/2F/2=GC|
+C=D4-D| \
+zFF F=G3/2=E/2| \
+F2C =D2C| \
+zCF =E/2F<=GE/2|
+F4-Fz| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z3 F2F| \
+F=G3/2=E/2 F2C| \
+=D2C zCF| \
+=E/2F/2=GC C=D2-|
+=D3 zFF| \
+F=G3/2=E/2 F2C| \
+=D2C zCF| \
+=E/2F<=GE/2 F3-|
+F/2z4z3/2| \
+z2D2<B2| \
+A3 G3| \
+A2=E _E-[G-E]G-|
+G3 D3| \
+E3 DGF| \
+E3 D2D| \
+B3 A3|
+G3 A2=E| \
+E6| \
+D3 G3| \
+A6|
+G6| \
+G2G GA3/2F/2| \
+G2D E2D| \
+zDG F/2G/2AD|
+DE4-E| \
+zGG GA3/2F/2| \
+G2D E2D| \
+zDG F/2G<AF/2|
+G6| \
+G2G GA3/2F/2| \
+G2D E2D| \
+zDG F/2G/2AD|
+DE4-E| \
+zGG GA3/2F/2| \
+G2D E2D| \
+zDG F/2G<A
+V:3
+%%clef treble
+z6| \
+z6| \
+z6| \
+z6|
+%%MIDI program 0
+F,/2C/2F/2=A/2F/2C/2 F,/2C/2F/2A/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2| \
+=D,/2=A,/2D/2F/2D/2A,/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2|
+B,/2=D/2F/2B/2F/2D/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2| \
+=D,/2=A,/2D/2F/2D/2A,/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2|
+F,/2C/2F/2=A/2F/2C/2 F,/2C/2F/2A/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2| \
+=D,/2=A,/2D/2F/2D/2A,/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2|
+B,/2=D/2F/2B/2F/2D/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2| \
+=D,/2=A,/2D/2F/2D/2A,/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2|
+F,/2C/2F/2=A/2F/2C/2 F,/2C/2F/2A/2F/2C/2| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z3 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 =D,/2=A,/2D/2F/2D/2A,/2| \
+B,/2=D/2F/2B/2F/2C/2 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 B,/2=D/2F/2B/2F/2D/2|
+B,/2=D/2F/2B/2F/2C/2 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 =D,/2=A,/2D/2F/2D/2A,/2| \
+B,/2=D/2F/2B/2F/2C/2 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 F,/2C/2F/2=A/2F/2C/2|
+F,/2D/2F/2B/2F/2D/2 F,/2C/2F/2=A/2F/2C/2| \
+F,/2D/2F/2B/2F/2D/2 z3| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2|
+=B,/2E/2G/2B/2G/2E/2 B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2|
+E,/2B,/2E/2G/2E/2B,/2 [=B,B,,]/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2|
+=B,/2E/2G/2B/2G/2E/2 B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2
+V:4
+z6| \
+z6| \
+%%MIDI program 74
+f3 c'3| \
+f3 =g3|
+f3 z3| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+[=af]/2A/2[af]/2A/2[af]/2zA/2[=g=e]/2A/2[ge]/2A/2| \
+[=g=e]/2c/2[ge]/2c/2[ge]/2c/2 z/2F/2[fc]/2F/2[fc]/2F/2| \
+[=af]/2A/2[af]/2A/2[af]/2A/2 z/2B/2[bf]/2B/2[bf]/2B/2|
+[=g=e]/2c/2[ge]/2c/2[ge]/2c/2 z/2=A/2[af]/2A/2[af]/2A/2| \
+z/2=A/2[=g=e]/2A/2[ge]/2A/2 z/2c/2[ge]/2c/2[ge]/2c/2| \
+z/2F/2[fc]/2F/2[fc]/2F/2 z/2=A/2[af]/2A/2[af]/2A/2| \
+z/2B/2[bf]/2B/2[bf]/2B/2 z/2c/2[=g=e]/2c/2[ge]/2c/2|
+V:5
+%%clef treble
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+%%MIDI program 6
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2| \
+=D,/2=A,/2D/2F/2D/2A,/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2|
+B,/2=D/2F/2B/2F/2D/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2| \
+=D,/2=A,/2D/2F/2D/2A,/2 B,/2D/2F/2B/2F/2C/2| \
+F,/2C/2F/2=A/2F/2C/2 C,/2C/2=E/2=G/2E/2C/2|
+F,/2C/2F/2=A/2F/2C/2 F,/2C/2F/2A/2F/2C/2| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z3 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 =D,/2=A,/2D/2F/2D/2A,/2| \
+B,/2=D/2F/2B/2F/2C/2 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 B,/2=D/2F/2B/2F/2D/2|
+B,/2=D/2F/2B/2F/2C/2 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 =D,/2=A,/2D/2F/2D/2A,/2| \
+B,/2=D/2F/2B/2F/2C/2 F,/2C/2F/2=A/2F/2C/2| \
+C,/2C/2=E/2=G/2E/2C/2 F,/2C/2F/2=A/2F/2C/2|
+F,/2D/2F/2B/2F/2D/2 F,/2C/2F/2=A/2F/2C/2| \
+F,/2D/2F/2B/2F/2D/2 z3| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2|
+=B,/2E/2G/2B/2G/2E/2 B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2|
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2|
+=B,/2E/2G/2B/2G/2E/2 B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2D/2| \
+E,/2B,/2E/2G/2E/2B,/2 =B,/2E/2G/2B/2G/2D/2| \
+G,/2D/2G/2B/2G/2D/2 D,/2D/2F/2A/2F/2
+V:6
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+%%MIDI program 41
+F,,3 C,,3| \
+=D,,3 B,,,3| \
+F,,3 C,,3|
+B,,,3 B,,,2C,,| \
+F,,3 C,,3| \
+=D,,3 B,,,2C,,| \
+F,,3 C,,3|
+F,,6| \
+=D,,3 =A,,,3| \
+C,,3 F,,,3| \
+=D,,3 B,,,2=G,,,|
+C,,3 =D,,3| \
+=A,,,3 C,,3| \
+F,,,3 =D,,3| \
+B,,,2=G,,, C,,3-|
+C,,3 F,,3| \
+C,,3 =D,,3| \
+B,,,3 F,,3| \
+C,,3 B,,,3|
+B,,,2C,,2<F,,2| \
+C,,3 =D,,3| \
+B,,,2C,,2<F,,2| \
+C,,3 F,,3|
+D,,3 F,,3| \
+D,,3 G,,3| \
+D,,3 E,,3| \
+=E,,3 =B,,,3|
+=B,,,3 _B,,,3| \
+=B,,,3 _B,,,3| \
+=B,,,3 D,,3| \
+G,,3 D,,3|
+E,,3 =E,,3| \
+=B,,,3 B,,,3| \
+B,,,3 E,,3| \
+C,,3 D,,3|
+G,,6| \
+G,,3 D,,3| \
+E,,3 =B,,,3| \
+G,,3 D,,3|
+=B,,,3 B,,,2D,,| \
+G,,3 D,,3| \
+E,,3 =B,,,2D,,| \
+G,,3 D,,3|
+E,,3 =B,,,2D,,| \
+G,,3 D,,3| \
+E,,3 =B,,,3| \
+G,,3 D,,3|
+=B,,,3 B,,,2D,,| \
+G,,3 D,,3| \
+E,,3 =B,,,2D,,| \
+G,,3 D,,3|
+V:7
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+z4
+%%MIDI program 48
+[DB,G,]/2G,/2[DB,G,]/2G,/2| \
+z[DA,F,D,]/2D,/2[DA,F,D,]/2D,/2 z[EB,G,E,]/2E,/2[EB,G,E,]/2E,/2| \
+z[=E=B,A,E,]/2E,/2[EB,A,E,]/2E,/2 z[_EB,G,B,,]/2B,,/2[EB,G,B,,]/2B,,/2|
+z[E=B,G,B,,]/2B,,/2[EB,G,B,,]/2B,,/2 z[D_B,G,B,,]/2B,,/2[DB,G,B,,]/2B,,/2| \
+z[E=B,G,]/2B,,/2[EB,G,]/2B,,/2 z[D_B,G,]/2B,,/2[DB,G,]/2B,,/2| \
+z[E=B,G,]/2B,,/2[EB,G,]/2B,,/2 z[FDA,]/2D,/2[FDA,]/2D,/2| \
+z[DB,G,]/2G,/2[DB,G,]/2G,/2 z[DA,F,D,]/2D,/2[DA,F,D,]/2D,/2|
+z[EB,G,E,]/2E,/2[EB,G,E,]/2E,/2 z[=E=B,A,E,]/2E,/2[EB,A,E,]/2E,/2| \
+z[E=B,G,B,,]/2B,,/2[EB,G,B,,]/2B,,/2 z[EB,G,B,,]/2B,,/2[EB,G,B,,]/2B,,/2| \
+z[DB,G,B,,]/2B,,/2[DB,G,B,,]/2B,,/2 z[EB,G,]/2E,/2[EB,G,]/2E,/2| \
+z[CA,C,]/2C,/2[CA,C,]/2C,/2 z[DA,F,]/2D,/2[DA,F,]/2D,/2|
+z[DB,G,]/2G,/2[DB,G,]/2G,/2 z[DB,G,]/2G,/2[DB,G,]/2G,/2| \
+z6| \
+z6| \
+z6|
+z6| \
+z6| \
+z6| \
+z6|
+z6| \
+[DB,]3 [FD]3| \
+[GE]3 [E=B,]2[FD]| \
+[GDB,]3 [FD]3|
+[E=B,]3 [GB,]2[FD]| \
+[DB,]3 [FD]3| \
+[GE]3 [E=B,]2[FD]| \
+[GDB,]3 [FD]3|

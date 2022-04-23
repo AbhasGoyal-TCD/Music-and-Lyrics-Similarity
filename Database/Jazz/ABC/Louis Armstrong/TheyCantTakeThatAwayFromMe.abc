@@ -1,0 +1,47 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Jazz\MIDI\Louis Armstrong\TheyCantTakeThatAwayFromMe.mid
+M: 4/4
+L: 1/8
+Q:1/4=90
+K:F % 1 flats
+V:1
+%%clef treble
+%%MIDI program 26
+%%MIDI program 26
+z3/2[FCA,D,]/2 F3/2F/2 [FCA,F,]2 F3/2[A-D-C-F,-]/2| \
+[ADCF,]2 z2 F,4| \
+C,3/2[FCA,]/2 F3/2F/2 [F=B,_A,D,]2 [FB,A,]3/2C/2| \
+[CB,F,G,,]4 [DB,E,C,]4|
+[CB,F,G,,]3/2F<FF/2 [FCA,D,]2 [FCA,]3/2c/2| \
+[c-F-C-C,-]4 [cFCC,]z C,/2C/2F/2c/2| \
+[cG_EB,]d3 [dBFDG,]2 d2| \
+[fdBFB,]3/2d<cB/2 [c_GDA,]2 [AD=B,F,]/2z=G/2|
+z3/2[FCA,D,]/2 F3/2F/2 F2 F3/2[A-D-C-F,-]/2| \
+[ADCF,]2 z2 F,4| \
+C,3/2[FCA,]/2 F3/2F/2 [F=B,_A,D,]2 [FB,A,]3/2C/2| \
+[CB,F,G,,]4 [DB,E,C,]4|
+[CB,F,G,,]3/2F<FF/2 [FCA,D,]2 [FCA,]3/2c/2| \
+[c-F-C-C,-]4 [cFCC,]z C,/2C/2F/2c/2| \
+[cG_EB,]d3 [dBFDG,]2 d2| \
+[fdBFB,]3/2d<cB/2 [cGEB,]2 A/2z[F-C-A,-D,-]/2|
+[FCA,D,]4 z2 A3/2=B/2| \
+[cECA,]2 A2 [eBGD,]2 d2| \
+[cECA,]2 A2 [eBGD,]2 [dGFD,]3/2c/2| \
+[AFCA,]2 [AECA,]2 [A_E=B,_G,]3/2A-[A=G-]/2G|
+[ED=B,B,,]6 [ADB,E,]3/2B/2| \
+[cECA,]2 =B2 [e_BGD,]2 [dGFD,]2| \
+[cECA,]2 A2 [dG_EC]2 [dA_GC]2| \
+[G-G,-G,-D,-]8|
+[GG,G,D,]3/2[FCA,D,]/2 F3/2F/2 F2 F3/2[A-D-C-F,-]/2| \
+[ADCF,]2 z2 F,4| \
+C,3/2[FCA,]/2 F3/2F/2 [F=B,_A,D,]2 [FB,A,]3/2C/2| \
+[CB,F,G,,]4 [DB,E,C,]4|
+[CB,F,G,,]3/2F<FF/2 [FCA,D,]2 [FCA,]3/2c/2| \
+[c-F-C-C,-]4 [cFCC,]z C,/2C/2F/2c/2| \
+[cG_EB,]d3 [dBFDG,]2 d2| \
+[fdBFB,]3/2d<cB/2 [cGEB,]2 A/2z[FDA,D,]/2|
+z2 [cG_DB,,]4 B2| \
+[AFCA,]2 B2 [AF_DA,]2 c2| \
+[GG,G,D,]4 [AEB,C,]4| \
+[F-C-A,-F,-]8|
+[FCA,F,]6 

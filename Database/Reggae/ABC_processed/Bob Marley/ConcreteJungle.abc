@@ -1,0 +1,235 @@
+D, A,,G,, E,,3/2G,,/2 A,, B,,C, E,,3/2G,,/2 A,,A,, A,,G,, A,,B,, 
+E,,3/2G,,/2 A,,G,,3 E,/2E,/2 E,/2B,,/2B,,/2 B,,A,, G,,F,, E,,3/2G,,/2 E,/2E,/2 E,/2B,,/2B,,/2 B,,A,, G,,F,, 
+E,,3/2A,,/2 D,/2E,/2- E,D,<E,G,<A,B,, A,,G,, E,,8 E,, E,,E,, G,,G,, F,,F,, 
+E,,3[EB,G,] [EB,G,] [ECA,] [ECA,] [ECA,] [EDA,] [EB,G,]/2[EB,G,] [EB,G,] [EB,G,] 
+[GEB,] [GEB,] [AEC] [AEC] [AFD] [FDA,] [FDA,] 
+[cGE]/2 [cGE]/2[cGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [cGE]/2[cGE]/2 [cGE] [BGE]/2[BGE]/2 
+[EB,G,]/2[EB,G,]/2 [GDB,]/2[GDB,]/2 [DA,F,]/2[DA,F,]/2 [DA,F,]/2[DA,F,]/2 [DA,F,]/2[DA,F,]/2 
+[EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 [AEC]/2[AEC]/2 [AE]/2 [EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 
+[GEB,]/2[GEB,]/2 [^cGE]/2[cGE]/2 [cGE]/2[cGE]/2 [BGE]/2[BGE]/2 [GEB,]/2[GEB,]/2 [GEB,]/2[EB,]/2[EB,]/2 
+[GEB,]/2[GEB,]/2 [GEB,]/2 [AEC]/2[AEC]/2 [GEB,]/2[GEB,]/2 [GEB,]/2 [AEC]/2[AEC]/2[AEC]/2 
+[GEB,]/2[EB,G,]/2 [AEC]/2[AEC]/2[AEC]/2 [GEB,]/2[GEB,]/2 [GEB,]/2[GEB,]/2 
+[GEB,]/2[EB,G,]/2 [AEC]/2[AEC]/2[AEC]/2 [DA,F,]/2[DA,F,]/2 [DA,F,]/2[DA,F,]/2 
+[cGE]/2[cGE]/2 [BGE]/2[BGE]/2[BGE]/2 [cGE]/2[cGE]/2 [BGE]/2[BGE]/2 
+[GDB,]/2[GDB,]/2 [GDB,]/2[GDB,]/2 [GDB,]/2[GDB,]/2 [GDB,]/2[GDB,]/2 [DA,F,]/2[DA,F,]/2 [DA,F,]/2[DB,F,]/2 [DA,F,]/2[DA,F,]/2 [DA,F,]/2[DB,F,]/2 
+[GEB,]/2[GEB,]/2 [AEC]/2[AEC]/2 [EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 
+[EB,G,]/2[EB,G,]/2 [AEC]/2[AEC]/2[AEC]/2 [GEB,]/2[EB,G,]/2[EB,G,] [AEC]/2[AEC]/2 
+[GEB,]/2[EB,G,]/2[EB,G,]/2 [AEC]/2[AEC]/2 [EB,G,]/2[EB,G,]/2[EB,G,]/2 [AEC]/2[AEC]/2[AEC]/2 
+[EB,G,]/2[EB,G,]/2[EB,G,]/2 [AEC]/2[AEC]/2 [EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 
+[EB,G,]/2[EB,G,]/2 [AEC]/2[AEC]/2 [FDA,]/2[FDA,]/2 [FDA,]/2[FDA,]/2 
+[AEC]/2[AEC]/2 [EB,G,]/2[GEB,]/2 [AEC]/2A/2 [EB,G,]/2[EB,G,]/2[EB,G,]/2 
+[GDB,]/2[GDB,]/2[GDB,]/2 [GDB,]/2[GDB,]/2[GDB,]/2 [FDA,]/2[FDA,]/2[FDA,]/2 [FDA,]/2[FDA,]/2[FDA,]/2 
+[GEB,]/2[GEB,]/2 [AEC]/2[AEC]/2 [EB,G,]/2[EB,G,]/2 [EB,G,]/2[EB,G,]/2 
+A,,/2 B,,4 E,, G,,A,, A,,/2A,,/2G,, 
+E,,6 E,/2E,/2 E, A,,/2B,,/2A,, E,,3/2G,,/2 E,,/2G,,/2 A,,B,, D,/2D,/2G,,/2D,/2B,, 
+E,,6 E,/2E,/2E,<E,E,/2 A,,/2B,,/2D, E,,/2 E,,4 E,,/2G,,/2 A,,2 B,,2 A,,2 
+E,, G,,A,, A,,/2A,,/2G,, E,,6 
+D, A,,G,, E,,3/2G,,/2 A,, B,,C, E,,3/2G,,/2 A,,A,, A,,G,, A,,B,, 
+E,,3/2G,,/2 A,,G,,3 E,/2E,/2 E,/2B,,/2B,,/2 B,,A,, G,,F,, E,,3/2G,,/2 E,/2E,/2 E,/2B,,/2B,,/2 B,,A,, G,,F,, 
+E,,3/2A,,/2 D,/2E,/2- E,D,<E,G,<A,B,, A,,G,, E,,8 E,, E,,E,, G,,G,, F,,F,, 
+E,,3 
+A,,/2 B,,4 E,, G,,A,, A,,/2A,,/2G,, 
+E,,6 E,/2E,/2 E, A,,/2B,,/2A,, E,,3/2G,,/2 E,,/2G,,/2 A,,B,, D,/2D,/2G,,/2D,/2B,, 
+E,,6 E,/2E,/2E,<E,E,/2 A,,/2B,,/2D, E,,/2 E,,4 E,,/2G,,/2 A,,2 B,,2 A,,2 
+E,, G,,A,, A,,/2A,,/2G,, E,,6 
+[B,G,E,B,,E,,]8 [CA,E,A,,]8 [B,G,E,B,,E,,]8 [CA,E,A,,]8 
+[B,G,E,B,,E,,]8 [CA,E,A,,]8 [B,G,E,B,,E,,]8 [CA,E,A,,]8 
+[B,G,E,B,,E,,]8 [CA,E,A,,]8 [B,G,E,B,,E,,]8 [CA,E,A,,]8 
+[B,G,E,B,,E,,]8 
+[B,G,E,B,,E,,]8 [CA,E,A,,]8 [B,G,E,B,,E,,]8 [CA,E,A,,]8 
+[B,G,E,B,,E,,]8 [CA,E,A,,]8 [B,G,E,B,,E,,]8 [CA,E,A,,]8 
+[B,G,E,B,,E,,]8 [CA,E,A,,]8 [B,G,E,B,,E,,]8 [CA,E,A,,]8 
+[B,G,E,B,,E,,]8 
+D,/2E, A,,/2B,,2 A,,/2B,,4 
+A,,/2B,,4 
+A,,/2B,,4 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3
+D,/2E, A,,/2B,,2 A,,/2B,,4 
+A,,/2B,,4 
+A,,/2B,,4 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- 
+F,,/2E,,3 E,,E,,E,,G,,G,,F,,F,,/2- F,,/2E,,3 [B,,-A,,]/2B,,3/2 
+A,,4
+(A,,A,,B,,^C,/2^D,/2A,,A,,B,,^C,/2^D,/2A,,A,,B,,^C,/2^D,/2  [D,^C,]/2E,/2 F,E,,2 E,,6-E,,- E,,E, [A,,-E,,-]3[A,,E,,]/2A,,/2 F,,/2G,,3/2- 
+G,,/2 ^C,/2D,/2 E,/2F,/2G,/2A,/2 B,/2=C/2^C/2 EE/2F/2 G3F/2G/2 F/2E/2[FD] (F/2G/2F/2EF/2G/2F/2EF/2G/2F/2E  
+DE FG A B^c d2 dd2^c dc e3e de 
+G F6 
+A,,2-A,,/2B,,3 D/2- D2 [eE]4 
+E4 A3A2 e2 
+e8- e2 
+[BG][AF] [GE][FD] [GD]E2 [BG][AF]2 E[FD] [FD]E D 
+E/2D DE FG F 
+G/2F/2E D 
+[FD][GE] [AF] [AF][BG] [BG][AF] 
+c4- c 
+E6 F [FD][GE] [AF][BG] [BG][AF] [AF][GE] 
+[AF][BG] [AF][FDA,] [DB,] [FD]2 
+[GE]3 [AF][BG] [AF][FD] [DB,]E [FD]2 
+[AF][BG] [AF][FD] [EB,]2 
+[FD][GE]/2 [AF] [BG]/2 [cA] 
+A,/2B,2-B,/2D- D[GB,]2[FA,A,,] 
+G/2F/2 
+A,/2B,/2D 
+[AF][BG] [AF] 
+[AF][BG] [AF] E2 F2 
+^C/2D3/2 [GA,]/2B,3/2 
+B,2 D3/2D<EF/2G/2 F/2E/2F/2E/2 (F/2G/2F/2EF/2G/2F/2EF/2G/2F/2E  D/2E3/2F/2- FF/2G/2 F/2G/2F/2 
+(A/2G/2E/2GA/2G/2E/2GA/2G/2E/2G  (G/2A/2G/2G/2A/2G/2G/2A/2G/2  E/2G/2B/2 e/2>d/2[BA]/2e/2 e/2d/2d/2 B/2d/2 e/2d a/2B/2d/2 [eE]/2[BB,]/2[eE]/2 
+[aE]4 [ag]/2e/2 g/2f/2a/2 f/2d/2f/2g/2 f/2g/2f/2g/2 f/2g/2f f/2g/2 f/2 [ec]d/2<B/2 
+d/2 [e'e]d ed a e/2 e/2d/2>B/2 d3/2 a2 g 
+E2 DE D 
+E2 [AF][BG] [AF][FD] [EB,]2 [FD]2 
+E2 [AF][BG] [AF][FD] B,2 [GD]2 [AE]2 
+E2 [AF][BG] [AF][FD] E2 B,2 D2 
+[AF][G-E-] [GE]2 [G-E-] [GE] [AF][G-E-] [GE]2 E- 
+E6 D/2- D6 E4-E- E8 
+E- 
+E8 [GE] 
+[A-G]/2A/2 [GD]8 
+[GE]8 [GE]6 
+[GE]6 
+[GE]8 [eE]2 [GE]8 [FD]2 
+[GE]8 [d-B-]/2 
+[dB]8 E4- 
+E6 E- E8 
+E8 [G-E-] [GE]6 
+[G-E-]8 [GE]4 [G-E-] [G-E-]8 [GE]4 
+[GB,]6 E6- EE 
+G4 B,2- B,^C/2 D3E/2 G/2 A3A- 
+AA2A2<B2A G3A/2 d3e d/2- d e/2a/2 
+a2 a e2-e/2 g3d/2e e4- e[ec] 
+e4 e3 e2 e2 e3-e/2 e/2[a-e] a4 e 
+[b-B-]8 [bB]8 D 
+[G-E-]8 [GE]2 [G-E-]8 [GE]2 
+[G-E-]8 [GE]2 [G-E-]8 [GE]2 
+[G-E-]8 [GE]2 [G-E-]8 [GE]2 
+[BGE] [BGE] [BGE] [BGE] [AEC] [AEC] [AEC] [AEC] [BGE]/2[BGE]/2 [BGE] [BGE] [BGE] [BGE] [BGE] 
+[BGE] [BGE] [AEC] [AEC] [AEC] [AEC] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[ECG,C,] [ECG,C,] [ECG,C,] [GEB,] [GEB,] [GEB,] [ECG,C,] [ECG,C,] [ECG,C,] [ECG,C,]/2 [GEB,] [GEB,] [GEB,] [GEB,]/2 
+[GDB,]/2[GDB,]/2 [GDB,] [GDB,]/2[GDB,]/2 [GDB,] [GDB,] [GDB,] [GDB,] [GDB,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [AEC] [AEC]/2[AEC]/2 [AEC]/2[AEC]/2[AEC]/2 [AEC]/2[AEC]/2 [BGE] [BGE] [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 
+[BGE] [BGE]/2[BGE]/2 [dGE]/2[dGE]/2 [dGE] [^cGE]/2[cGE]/2 [cGE]/2[cGE]/2 [=cGE]/2[cGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [dGE]/2[dGE]/2 [dGE]/2[dGE]/2 [^cGE]/2[cGE]/2 [cGE]/2[cGE]/2 [=cGE]/2[cGE]/2 
+[BGE] [BGE] [dGE] [dGE]/2[dGE]/2 [^cGE]/2[cGE]/2 [cGE]/2[cGE]/2 [=cGE]/2[cGE]/2 [BGE] [BGE] [dGE]/2[dGE]/2 [dGE]/2[dGE]/2 [^cGE]/2[cGE]/2 [cGE]/2[cGE]/2 [=cGE]/2[cGE]/2 
+[BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [AEC]/2[AEC]/2 [AEC]/2[AEC]/2 [AEC]/2[AEC]/2 [AEC]/2[AEC]/2 [BGE] [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE] [BGE]/2[BGE]/2 [BGE] [BGE] 
+[BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE] [BGE] [AEC] [AEC]/2[AEC] [AEC] [AEC] [FDA,D,] [FDA,D,] [FDA,D,]/2 [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[ECG,C,] [ECG,C,] [ECG,C,] [GEB,] [GEB,] [GEB,] [ECG,C,] [ECG,C,] [ECG,C,] [ECG,C,]/2 [GEB,] [GEB,] [GEB,] [GEB,]/2 
+[GDB,]/2[GDB,]/2 [GDB,] [GDB,]/2[GDB,]/2 [GDB,] [GDB,] [GDB,] [GDB,] [GDB,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[BGE] [BGE] [BGE] [BGE] [AEC]/2[AEC] [AEC] [AEC] [BGE] [BGE] [BGE] [BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 
+[BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] [BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] 
+[BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] [BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] 
+[BGE]/2[BGE]/2 [BGE] [BGE]/2[BGE]/2 [BGE] [AEC] [AEC] [AEC] [AEC] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] 
+[BGE] [BGE] [BGE] [BGE] [AEC] [AEC] [AEC] [AEC] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[ECG,C,] [ECG,C,] [ECG,C,] [ECG,C,] [GEB,] [GEB,] [GEB,] [GEB,] [ECG,C,] [ECG,C,] [ECG,C,] [ECG,C,] [GEB,] [GEB,] [GEB,] [GEB,] 
+[GDB,] [GDB,] [GDB,] [GDB,] [GDB,] [GDB,] [GDB,] [GDB,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[BGE] [BGE] [BGE] [BGE] [AEC]/2[AEC] [AEC] [AEC] [BGE] [BGE] [BGE] [BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 [BGE]/2[BGE]/2 
+[BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] [BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] 
+[BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] [BGE] [BGE] [dGE] [dGE] [^cGE] [cGE] [=cGE] [cGE] 
+[BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] [BGE] 
+[BGE] [BGE] [BGE] [BGE] 
+[BGE] [BGE] [BGE] [BGE] [AEC] [AEC] [AEC] [AEC] [BGE]/2[BGE]/2 [BGE] [BGE] [BGE] [BGE] [BGE] 
+[BGE] [BGE] [AEC] [AEC] [AEC] [AEC] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] [FDA,D,] 
+[ECG,C,] [ECG,C,] [ECG,C,] [GEB,] [GEB,] E/2E3/2-[GE-EB,] E-[E-ECG,C,] E-[E-ECG,C,] E-[E-ECG,C,] E-[E-ECG,C,]/2E/2- E-[GE-EB,] E-[GE-EB,] E-[GE-EB,] E-[GEEB,]/2E/2- 
+E-[GE-DB,]/2[GE-DB,]/2 E-[GE-DB,] E-[GE-DB,]/2[GE-DB,]/2 E-[GE-DB,] E-[GE-DB,] E-[GE-DB,] E-[GE-DB,] E-[GE-DB,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] 
+E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[AE-EC] E-[AE-EC]/2[AE-EC]/2 E/2-[AE-EC]/2[AE-EC]/2[AE-EC]/2 E-[AE-EC]/2[AE-EC]/2 E-[BGE-E] E-[BGE-E] E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 
+E-[BGE-E] E-[BGE-E]/2[BGE-E]/2 E-[dGE-E]/2[dGE-E]/2 E-[dGE-E] E-[^cGE-E]/2[cGE-E]/2 E-[cGE-E]/2[cGE-E]/2 E-[=cGEE]/2E3/2-[cGEE]/2E/2- E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[dGE-E]/2[dGE-E]/2 E-[dGE-E]/2[dGE-E]/2 E-[^cGE-E]/2[cGE-E]/2 E-[cGE-E]/2[cGE-E]/2 E-[=cGEE]/2E3/2-[cGEE]/2E/2- 
+E-[BGE-E] E-[BGE-E] E-[dGE-E] E-[dGE-E]/2[dGE-E]/2 E-[^cGE-E]/2[cGE-E]/2 E-[cGE-E]/2[cGE-E]/2 E-[=cGEE]/2E3/2-[cGEE]/2E/2- E-[BGE-E] E-[BGE-E] E-[dGE-E]/2[dGE-E]/2 E-[dGE-E]/2[dGE-E]/2 E-[^cGE-E]/2[cGE-E]/2 E-[cGE-E]/2[cGE-E]/2 E-[=cGEE]/2E3/2-[cGEE]/2E/2- 
+E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[AE-EC]/2[AE-EC]/2 E-[AE-EC]/2[AE-EC]/2 E-[AE-EC]/2[AE-EC]/2 E-[AE-EC]/2[AE-EC]/2 E-[BGE-E] E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E] E-[BGE-E]/2[BGE-E]/2 E-[BGE-E] E-[BGE-E] 
+E-[BGE-E]/2[BGE-E]/2 E-[BGE-E]/2[BGE-E]/2 E-[BGE-E] E-[BGE-E] E-[AE-EC] E/2-[AE-EC]/2[AE-EC] E-[AE-EC] E-[AE-EC] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,]/2E/2- E/2-E/2-E/2-E/2- E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] E-[FE-DA,D,] 
+E-[E-ECG,C,] E-[E-ECG,C,] EE/2-E3/2-[E-ECG,C,] E-[GE-EB,] E-[GE-EB,] E[E-E]/2[E-E-]3/2[GE-E-EB,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,]/2[E-E-]/2 [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][GE-EEB,]/2[E-E-]/2 
+[E-E-][GE-E-DB,]/2[GE-E-DB,]/2 [E-E-][GE-E-DB,] [E-E-][GE-E-DB,]/2[GE-E-DB,]/2 [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][AE-EEC]/2[E-E-]3/2[AE-E-EC] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-EE]/2[E-E-]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] 
+[E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E] [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E][E-E]/2[E-E]/2 [E-E]/2[E-E]/2[E-E]/2[E-E-]/2 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] 
+[E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][E-E-ECG,C,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] [E-E-][GE-E-EB,] 
+[E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][GE-E-DB,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] [E-E-][FE-E-DA,D,] 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][AE-EEC]/2[E-E-]3/2[AE-E-EC] [E-E-][AE-E-EC] [E-E-][AE-E-EC] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-EE]/2[E-E-]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 [E-E-][BGE-E-E]/2[BGE-E-E]/2 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][dGE-E-E] [E-E-][dGE-E-E] [E-E-][^cGE-E-E] [E-E-][cGE-E-E] [E-E-][=cGE-E-E] [E-E-][cGE-E-E] 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] 
+[E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-][BGE-E-E] [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E-]8 [E-E-]8 [E-E-]8 
+[E-E-]8 [E-E]2 E4 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2[D,F,,]/2 [D,F,,]/2F,,/2[C,F,,]/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2[D,F,,]/2 [D,F,,]/2F,,/2[C,F,,]/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2[D,F,,]/2 [D,F,,]/2F,,/2[C,F,,]/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2[D,F,,]/2 [D,F,,]/2F,,/2[C,F,,]/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+[F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 [F,,C,,]/2F,,/2F,,/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 F,,/2F,,/2[F,,C,,]/2F,,/2 F,,/2F,,/2F,,/2F,,/2 
+F,,2- F,,8- 
+F,,2 F,,2- F,,6 
+F,,2- F,,8- 
+F,,2 
+F,,2- 
+F,,8- F,,2 
