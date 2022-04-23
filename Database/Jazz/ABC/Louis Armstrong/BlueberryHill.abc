@@ -1,0 +1,84 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Jazz\MIDI\Louis Armstrong\BlueberryHill.mid
+M: 4/4
+L: 1/8
+Q:1/4=87
+K:Bb % 2 flats
+V:1
+%%MIDI program 25
+z8| \
+z8| \
+z2 [BGE]/2z3z/2 [BGE]/2z3/2| \
+z2 [BGE]/2z3z/2 [BGE]/2z3/2|
+z2 [BFD]/2z3z/2 [BFD]/2z3/2| \
+[BFD]/2z6z3/2| \
+z2 [BGE]/2z3z/2 [BGE]/2z3/2| \
+z2 [BGE]/2z3z/2 [BGE]/2z3/2|
+z2 [BFD]/2z3z/2 [BFD]/2z3/2| \
+z2 [BFD]/2z3z/2 [BFD]/2z3/2| \
+z2 [AFC]/2z3z/2 [AFC]/2
+V:2
+%%MIDI program 27
+z8| \
+z8| \
+E,3/2z/2 E,>G, B,/2z (3B,_G,=G,B,/2| \
+E,3/2z/2 E,>G, B,/2z (3B,_G,=G,B,/2|
+B,3/2z/2 B,>D F/2z (3F_D=DF/2| \
+B,3/2z6z/2| \
+E,3/2z/2 E,>G, B,/2z (3B,_G,=G,B,/2| \
+E,3/2z/2 E,>G, B,/2z (3B,_G,=G,B,/2|
+B,2 B,>D F/2z (3F_D=DF/2| \
+B,3/2z/2 B,>D F>F _D<=D| \
+F,3/2z/2 F,>A, C>C  (3_A,=A,C|
+V:3
+%%MIDI program 0
+z8| \
+z2 B,>B,  (3DB,D  (3FDF| \
+ (3G/2E/2G/2[GE]/2[GE]/2 [GE]/2[GE]/2[GE]/2[GE]/2 [GE]/2[GE]/2[GE]/2[GE]/2 [GE]/2[GE]/2[GE]/2[GE]/2| \
+[GE]/2[GE]/2[GE]/2E<B (3GFGF<_D=D/2|
+ (3F/2D/2F/2[FD]/2[FD]/2 [FD]/2[FD]/2[FD]/2[FD]/2 [FD]/2[FD]/2[FD]/2[FD]/2 [FD]/2[FD]/2[FD]/2[FD]/2| \
+[F-D-DB,-]/2[FDB,]4z3z/2| \
+[bge]/2[bge]/2z/2[bge]/2 [bge]/2[bge]/2z/2[bge]/2 [bge]/2[bge]/2z/2[bge]/2 [bge]/2[bge]/2z/2[bge]/2| \
+[bge]/2[bge]/2z/2[bge]/2 [bge]/2[bge]/2z/2[bge]/2 [bge]/2[bge]/2z/2[bge]/2 [bge]/2[bge]/2z/2[bge]/2|
+[bfd]/2[bfd]/2z/2[bfd]/2 [bfd]/2[bfd]/2z/2[bfd]/2 [bfd]/2[bfd]/2z/2[bfd]/2 [bfd]/2[bfd]/2z/2[bfd]/2| \
+[bfd]/2[bfd]/2z/2[bfd]/2 [bfd]/2[bfd]/2z/2[bfd]/2 [bfd]/2[bfd]/2z/2[bfd]/2 [bfd]/2[bfd]/2z/2[bfd]/2| \
+[afc]/2[afc]/2z/2[afc]/2 [afc]/2[afc]/2z/2[afc]/2 [afc]/2[afc]/2z/2[afc]/2 [afc]/2[afc]/2z/2[afc]/2|
+V:4
+%%MIDI program 65
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+[G-E-B,-]8| \
+[G-E-B,-]6 [GEB,]z|
+[F-D-B,-]8| \
+[F-D-B,-]6 [FDB,]z| \
+[F-C-A,-]8|[F-C-A,-]6 [FCA,]
+V:5
+%%MIDI program 33
+z8| \
+z8| \
+E,,3z/2G,,/2 B,,2 G,,>B,,| \
+E,,3z/2G,,/2 B,,2 G,,>B,,|
+B,,,3z/2D,,/2 F,,2 D,,>F,,| \
+B,,,6- B,,,z| \
+E,,3z/2G,,/2 B,,2 G,,>B,,| \
+E,,3z/2G,,/2 B,,2 G,,>B,,|
+B,,,3z/2D,,/2 F,,2 D,,>F,,| \
+B,,,3z/2D,,/2 F,,2 D,,>F,,| \
+F,,,3z/2A,,,/2 C,,2 A,,,>C,,|
+V:6
+%%MIDI channel 10
+z8| \
+z8| \
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2| \
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2|
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2| \
+z2 z2 z2 z2| \
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2| \
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2|
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2| \
+z/2zz/2 z/2zz/2 z/2zz/2 z/2zz/2| \
+z/2zz/2 z/2zz/2 z/2zz/2 z/2z

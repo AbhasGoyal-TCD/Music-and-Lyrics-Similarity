@@ -1,0 +1,174 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Folk\MIDI\Leonard Cohen\Suzanne.mid
+M: 3/4
+L: 1/8
+Q:1/4=70
+K:E % 4 sharps
+V:1
+%%clef treble
+%%MIDI program 24
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[BEE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2|
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2| \
+[B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2|
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2| \
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [d-G,-G,]/2[d-GG,-]/2[d-BG,-]/2[d-GG,]/2|
+[d-G,-G,]/2[dGG,-]/2[B-BG,-]/2[BGG,-]/2 [c-cG,-]/2[cGG,-]/2[B-BG,-]/2[B-GG,]/2 [B-G,-G,]/2[BGG,-]/2[B-BG,-]/2[BGG,]/2| \
+[e-A,-A,]/2[e-AA,-]/2[e-cA,-]/2[e-AA,]/2 [e-A,-A,]/2[eAA,-]/2[c-cA,-]/2[cAA,-]/2 [=d-dA,-]/2[dAA,-]/2[c-cA,-]/2[c-AA,-]/2| \
+[c-BA,-]/2[cAA,-]/2[c-cA,-]/2[cAA,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2| \
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2|
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2| \
+[B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2|
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[E,-E,]/2[EE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[GEE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[d-G,-G,]/2[d-GG,-]/2[d-BG,-]/2[d-GG,]/2 [d-G,-G,]/2[dGG,-]/2[B-BG,-]/2[BGG,-]/2 [c-cG,-]/2[cGG,-]/2[B-BG,-]/2[B-GG,]/2| \
+[B-G,-G,]/2[BGG,-]/2[B-BG,-]/2[BGG,]/2 [e-A,-A,]/2[e-AA,-]/2[e-cA,-]/2[e-AA,]/2 [e-A,-A,]/2[eAA,-]/2[c-cA,-]/2[cAA,-]/2|
+[=d-dA,-]/2[dAA,-]/2[c-cA,-]/2[c-AA,-]/2 [c-BA,-]/2[cAA,-]/2[c-cA,-]/2[cAA,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2| \
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2| \
+[A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2|
+[A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2| \
+[A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[BEE,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2|
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2| \
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2| \
+[A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2|
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2| \
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[d-G,-G,]/2[d-GG,-]/2[d-BG,-]/2[d-GG,]/2 [d-G,-G,]/2[dGG,-]/2[B-BG,-]/2[BGG,-]/2 [c-cG,-]/2[cGG,-]/2[B-BG,-]/2[B-GG,]/2| \
+[B-G,-G,]/2[BGG,-]/2[B-BG,-]/2[BGG,]/2 [e-A,-A,]/2[e-AA,-]/2[e-cA,-]/2[e-AA,]/2 [e-A,-A,]/2[eAA,-]/2[c-cA,-]/2[cAA,-]/2|
+[=d-dA,-]/2[dAA,-]/2[c-cA,-]/2[c-AA,-]/2 [c-BA,-]/2[cAA,-]/2[c-cA,-]/2[cAA,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2| \
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2| \
+[A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2|
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2| \
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2|
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[BEE,]/2 [d-G,-G,]/2[d-GG,-]/2[d-BG,-]/2[d-GG,]/2| \
+[d-G,-G,]/2[dGG,-]/2[B-BG,-]/2[BGG,-]/2 [c-cG,-]/2[cGG,-]/2[B-BG,-]/2[B-GG,]/2 [B-G,-G,]/2[BGG,-]/2[B-BG,-]/2[BGG,]/2| \
+[e-A,-A,]/2[e-AA,-]/2[e-cA,-]/2[e-AA,]/2 [e-A,-A,]/2[eAA,-]/2[c-cA,-]/2[cAA,-]/2 [=d-dA,-]/2[dAA,-]/2[c-cA,-]/2[c-AA,-]/2| \
+[c-BA,-]/2[cAA,-]/2[c-cA,-]/2[cAA,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2|
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2| \
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2|
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[BEE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2| \
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2|
+[B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2| \
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2|
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [d-G,-G,]/2[d-GG,-]/2[d-BG,-]/2[d-GG,]/2| \
+[d-G,-G,]/2[dGG,-]/2[B-BG,-]/2[BGG,-]/2 [c-cG,-]/2[cGG,-]/2[B-BG,-]/2[B-GG,]/2 [B-G,-G,]/2[BGG,-]/2[B-BG,-]/2[BGG,]/2| \
+[e-A,-A,]/2[e-AA,-]/2[e-cA,-]/2[e-AA,]/2 [e-A,-A,]/2[eAA,-]/2[c-cA,-]/2[cAA,-]/2 [=d-dA,-]/2[dAA,-]/2[c-cA,-]/2[c-AA,-]/2| \
+[c-BA,-]/2[cAA,-]/2[c-cA,-]/2[cAA,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2|
+[A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2| \
+[c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2| \
+[G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2 [c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2|
+[B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2 [A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2| \
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-E,-E,]/2[BEE,-]/2[G-B,E,-]/2[GEE,]/2 [A-B,-B,]/2[AEB,-]/2[G-B,-B,]/2[GEB,]/2| \
+[d-G,-G,]/2[d-GG,-]/2[d-BG,-]/2[d-GG,]/2 [d-G,-G,]/2[dGG,-]/2[B-BG,-]/2[BGG,-]/2 [c-cG,-]/2[cGG,-]/2[B-BG,-]/2[B-GG,]/2|
+[B-G,-G,]/2[BGG,-]/2[B-BG,-]/2[BGG,]/2 [e-A,-A,]/2[e-AA,-]/2[e-cA,-]/2[e-AA,]/2 [e-A,-A,]/2[eAA,-]/2[c-cA,-]/2[cAA,-]/2| \
+[=d-dA,-]/2[dAA,-]/2[c-cA,-]/2[c-AA,-]/2 [c-BA,-]/2[cAA,-]/2[c-cA,-]/2[cAA,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2| \
+[B-E,-E,]/2[BEE,-]/2[G-GE,-]/2[GEE,-]/2 [A-AE,-]/2[AEE,-]/2[G-GE,-]/2[G-EE,]/2 [G-E,-E,]/2[GEE,-]/2[G-GE,-]/2[GEE,]/2| \
+[c-F,-F,]/2[c-FF,-]/2[c-AF,-]/2[c-FF,]/2 [c-F,-F,]/2[cFF,-]/2[A-AF,-]/2[AFF,-]/2 [B-BF,-]/2[BFF,-]/2[A-AF,-]/2[A-FF,]/2|
+[A-F,-F,]/2[AFF,-]/2[A-AF,-]/2[AFF,]/2 [B-E,-E,]/2[B-EE,-]/2[B-GE,-]/2[B-EE,]/2 [B-G,-G,]/2[BEG,-]/2[G-GG,-]/2[GEG,-]/2| \
+[A-AG,-]/2[AEG,-]/2[A-AG,-]/2[AEG,]/2 [G-G-E-E-E,-E,-]4|[GGEEE,E,]2 
+V:2
+%%MIDI program 48
+B3G AG| \
+B3G AG| \
+B3G AG| \
+z3B,/2B,2-B,/2|
+B,B,<CB,2G,/2B,/2-| \
+B,/2B,3/2 B,3/2B,/2 C/2B,3/2-| \
+B,B,/2B,<CC/2 CC/2=D/2-| \
+=DC B,A, C/2C/2C-|
+C3/2C/2 =DC2C/2C/2| \
+B,2 B,/2B,C3/2B,-| \
+B,G,/2B,<B,B,/2 B,/2B,C/2-| \
+CB,2B,/2B,/2 DD|
+D/2DE3/2D D/2DE/2-| \
+E3/2E/2 E/2EF3/2E| \
+DC zB,/2B,<B,B,/2| \
+C/2B,2-B,/2B,/2B,/2 CC|
+C3/2C/2 =D/2C2-C/2C/2C/2| \
+B,B, B,3/2B,/2 C/2B,3/2-| \
+B,B,/2B,/2 CC C<C| \
+=DC C/2CC3/2B,-|
+B,B,/2B,/2 C/2B,3-B,/2| \
+z4 B,B,| \
+DD D<D E/2D3/2-| \
+DD/2D<EE/2 E/2EF/2-|
+FE DC B,2| \
+B,/2B,C3/2B,2B,/2B,/2| \
+B,A, B,/2A,B,3/2A,-| \
+A,G,/2A,/2 B,4-|
+B,2 z4| \
+z4 zB,| \
+B,B, B,<B, CB,-| \
+B,B,/2B,<B,B,<B,B,/2|
+C/2B,2-B,/2B,/2B,/2 C/2C/2C-| \
+CC =DC B,A,| \
+CC C<C =DC| \
+zC B,3/2B,<B,B,/2|
+CB, B,B, B,B,| \
+B,B, CB, B,B,| \
+D3/2D3/2D/2D/2 E<D| \
+DD EE EE|
+F/2E2-E/2C B,B,| \
+B,B, C/2B,3/2 z/2B,B,/2| \
+C3/2C<CC/2 =D/2C3/2| \
+z/2C3/2 C/2B,3/2 zB,/2B,/2|
+C/2B,3/2 zB,/2A,2A,/2| \
+B,A, B,A, zG,/2A,/2| \
+B,4 z2| \
+z6|
+z2 B,B, D3/2D/2| \
+DD E/2D2-D/2D/2D/2| \
+E3/2E/2 E<E FE| \
+DC B,B, B,/2B,C/2-|
+C/2B,2-B,/2B,/2B,/2 B,A,| \
+B,A, B,/2A,2-A,/2G,/2A,/2| \
+B,4 z2| \
+z6|
+z2 B,3/2B,/2 B,2| \
+B,<B, CB, zB,| \
+B,B,2B,/2B,/2 C/2B,3/2| \
+zC/2C/2 C/2C/2C2C|
+=D<C B,A, CC| \
+CC =DC2C/2C/2| \
+CB, B,B, C/2B,B,/2| \
+B,B, B,B, B,B,|
+CB,2B,/2B,<DD/2| \
+D3/2D<ED<DD/2| \
+E3/2E<EE/2 FE| \
+DC zB,/2B,B,/2B,/2C/2-|
+CB,2B,/2A,/2 CC| \
+C3/2C/2 =DC2C/2C/2| \
+B,B, B,B, CB,-| \
+B,B,/2B,/2 CC C3/2C/2|
+=D<C CC CB,| \
+B,3/2B,/2 C/2B,3-B,/2| \
+z4 B,B,| \
+D3/2D/2 DD E/2D3/2-|
+DD/2D<EE/2 E<E| \
+FE DC B,2| \
+B,<B, CB,2B,/2B,/2| \
+B,A, B,/2A,B,3/2A,-|
+A,G,/2A,/2 B,4|

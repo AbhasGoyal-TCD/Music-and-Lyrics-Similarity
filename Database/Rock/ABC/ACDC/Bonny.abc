@@ -1,0 +1,23 @@
+X: 1
+T: from D:\TCD\Text Analytics\Group Assignment\Music-and-Lyrics-Similarity\Database\Rock\MIDI\ACDC\Bonny.mid
+M: 4/4
+L: 1/8
+Q:1/4=70
+% Last note suggests Mixolydian mode tune
+K:G % 1 sharps
+V:1
+%%MIDI program 30
+%%MIDI program 30
+[GDB,G,D,G,,]8| \
+G,2 G,2 [A,-G,]/2A,/2B,2B,| \
+B,2 A, (3G,2A,2G,2E,| \
+D,2 D,3/2E,G,2G,3/2-|
+G,/2G,/2A, B,2 B,2 DE-| \
+E2 D3D E2| \
+ED2B, B,2 DC-| \
+CB, A,2 G,G,2E,|
+D,2 E,G,2G, A,2| \
+B,D2E4D-| \
+D3B,4A,-| \
+A,3B,4[G-D-B,-G,-D,-G,,-]|
+[GDB,G,D,G,,]8|
