@@ -1,4 +1,5 @@
 from sqlite3 import DatabaseError
+from webbrowser import get
 import numpy as np
 import nltk
 import string
@@ -10,6 +11,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from nltk.stem import WordNetLemmatizer
 import itertools
 from scipy.stats import mannwhitneyu
+
+# import matplotlib.pyplot as plt
 
 ROOT = "./Database"
 
@@ -109,14 +112,16 @@ def sanity_check(df, cosine_sim_df, song1, song2):
     assert val1 == val2
 
 
-def generate_pairs_of_artist():
-    li = []
+def get_all_artists():
+    artists = []
     for genre in DATASET:
-        li.extend(DATASET[genre].keys())
-    print(len(li))
-    combinations = list(itertools.permutations(li, 2))
-    # combinations = [(a, b) for idx, a in enumerate(li) for b in li[idx + 1 :]]
-    print("Length of combinations: ", len(combinations))
+        artists.extend(DATASET[genre].keys())
+    return artists
+
+
+def generate_pairs_of_artist():
+    artists = get_all_artists()
+    combinations = list(itertools.permutations(artists, 2))
     return combinations
 
 
@@ -154,17 +159,12 @@ def main():
         elif ABC in root:
             populate_documents(root, files, ABC)
 
-    # pprint(DATASET)
-
     df_lyrics, cosine_sim_lyrics, cosine_sim_lyrics_df = get_cosine_sim_mat(
         DOCUMENTS_LYRICS, stopwords=None
     )
     df_abc, cosine_sim_abc, cosine_sim_abc_df = get_cosine_sim_mat(
         DOCUMENTS_ABC, stopwords=None
     )
-
-    # sanity_check(df_lyrics, cosine_sim_lyrics_df, "BookOfDays", "BlueberryHill")
-    # sanity_check(df_abc, cosine_sim_abc_df, "BookOfDays", "WhatAWonderfulWorld")
 
     for genre in DATASET:
         for artist in DATASET[genre]:
@@ -173,16 +173,11 @@ def main():
                 DATASET[genre][artist]
             ]
             temp_lyrics_df_mat = temp_lyrics_df.to_numpy()
-            # AGGREGATE_ARTIST[artist]["Lyrics"] = np.linalg.det(temp_lyrics_df_mat)
-            # AGGREGATE_ARTIST[artist]["Lyrics"] = temp_lyrics_df_mat.mean()
 
-            # Uncomment when ABC files are present
             temp_abc_df = cosine_sim_abc_df.loc[DATASET[genre][artist]][
                 DATASET[genre][artist]
             ]
             temp_abc_df_mat = temp_abc_df.to_numpy()
-            # AGGREGATE_ARTIST[artist]["ABC"] = np.linalg.det(temp_abc_df_mat)
-            # AGGREGATE_ARTIST[artist]["ABC"] = temp_abc_df_mat.mean()
 
             AGGREGATE_ARTIST[artist] = round(
                 1 - get_absolute_differences_mean(temp_lyrics_df_mat, temp_abc_df_mat),
@@ -196,22 +191,32 @@ def main():
         songs2 = get_songs_from_artist(pair[1])
         temp_lyrics_df = cosine_sim_lyrics_df.loc[songs1][songs2]
         temp_lyrics_df_mat = temp_lyrics_df.to_numpy()
-        # try:
-        #     AGGREGATE_PAIR_ARTISTS[pair]["Lyrics"] = np.linalg.det(temp_lyrics_df_mat)
-        # except:
-        #     print(pair)
 
-        # Uncomment when ABC files are present
         temp_abc_df = cosine_sim_abc_df.loc[songs1][songs2]
         temp_abc_df_mat = temp_abc_df.to_numpy()
-        # AGGREGATE_PAIR_ARTISTS[pair]['ABC'] = np.linalg.det(temp_abc_df_mat)
 
         AGGREGATE_PAIR_ARTISTS[pair] = round(
             1 - get_absolute_differences_mean(temp_lyrics_df_mat, temp_abc_df_mat), 3
         )
 
-    pprint(AGGREGATE_ARTIST)
-    pprint(AGGREGATE_PAIR_ARTISTS)
+    # pprint(AGGREGATE_ARTIST)
+    # pprint(AGGREGATE_PAIR_ARTISTS)
+
+    artists = get_all_artists()
+    pair_artists = [[None for a in artists] for a in artists]
+
+    for i, a1 in enumerate(artists):
+        for j, a2 in enumerate(artists):
+            if a1 == a2:
+                pair_artists[i][j] = AGGREGATE_ARTIST[a1]
+            else:
+                pair_artists[i][j] = AGGREGATE_PAIR_ARTISTS[(a1, a2)]
+
+    aggregate_pair_artist_df = pd.DataFrame(
+        pair_artists, columns=artists, index=artists
+    )
+
+    pprint(aggregate_pair_artist_df)
 
 
 if __name__ == "__main__":
