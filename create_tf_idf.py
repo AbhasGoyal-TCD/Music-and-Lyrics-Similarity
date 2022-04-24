@@ -1,16 +1,20 @@
 from sqlite3 import DatabaseError
 from webbrowser import get
+from cv2 import rotate
 import numpy as np
 import nltk
 import string
 import os
+import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 from pprint import pprint
+import matplotlib.patches as mpatches
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.stem import WordNetLemmatizer
 import itertools
 from scipy.stats import mannwhitneyu
+import seaborn as sns
 
 # import matplotlib.pyplot as plt
 
@@ -150,6 +154,31 @@ def mann_whitney_rank(mat1, mat2):
     return p
 
 
+def get_colors_from_artist(artists):
+    genres = DATASET.keys()
+    colors = [
+        "red",
+        "blue",
+        "green",
+        "black",
+        "cyan",
+        "yellow",
+        "orange",
+        "brown",
+        "violet",
+        "purple",
+    ]
+
+    op = []
+    for g, c in zip(genres, colors):
+        DATASET[g]["color"] = c
+    for a in artists:
+        genre = get_genre_from_artist(a)
+        op.append(DATASET[genre]["color"])
+
+    return op
+
+
 def main():
     populate_dataset_dict()
 
@@ -216,7 +245,36 @@ def main():
         pair_artists, columns=artists, index=artists
     )
 
-    pprint(aggregate_pair_artist_df)
+    # pprint(aggregate_pair_artist_df)
+    plt.rcParams["figure.figsize"] = (14, 10)
+    plt.rcParams["xtick.labelsize"] = 7
+
+    # heatmap = sns.heatmap(aggregate_pair_artist_df, cmap="YlGnBu")
+    # fig = heatmap.get_figure()
+    # fig.savefig("heatmap.png")
+
+    li = []
+    for i in range(len(artists)):
+        li.append(pair_artists[i][i])
+    colors = get_colors_from_artist(artists)
+    plt.bar(artists, li, color=colors)
+    plt.xticks(rotation=90)
+    plt.tight_layout()
+    genre_colors = [DATASET[g]["color"] for g in DATASET]
+    genres = list(DATASET.keys())
+    # legend_c = [plt.Rectangle((0, 0), 1, 1, color=DATASET[g]["color"]) for g in DATASET]
+    #  = [DATASET[g]["color"] for g in DATASET]
+    plt.legend(
+        handles=[
+            mpatches.Patch(color=genre_colors[i], label=genres[i])
+            for i in range(len(genres))
+        ]
+    )
+    plt.savefig("similarity_within_artist.png")
+
+    # print(len(DATASET.keys()))
+    # print(artists)
+    # print(get_colors_from_artist(artists))
 
 
 if __name__ == "__main__":
